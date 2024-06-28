@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/Awch.gif"  />
+<img align="right" height="150" src=".github/Awch.gif"  />
 
 ###
 
